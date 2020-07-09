@@ -5,6 +5,6 @@
 
 <p></p>
 
-<img src="https://media2.giphy.com/media/QQkyLVLAbQRKU/giphy.gif?cid=ecf05e47a38bd4adecfec396952ddb0de630f210e5a760b9&rid=giphy.gif" />
+<img src="https://media.giphy.com/media/w2KHfIlI3V7bi/giphy.gif" />
 
 </div>
