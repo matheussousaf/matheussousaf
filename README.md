@@ -1,10 +1,11 @@
 <div style="text-align:center">
-<h1 align="center">Hi! Welcome to my crib 👋</h1>
+
+# Matheus Figueirêdo
 
 
-<p align="center">
+## About me
+
 <img src="https://media.giphy.com/media/w2KHfIlI3V7bi/giphy.gif" />
-</p>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheussousaf/)](https://www.linkedin.com/in/matheussousaf/)
@@ -15,8 +16,13 @@
 </div>
 I'm a pizza oriented **software developer** :rocket: **problem solver** and a **geek** :nerd_face: Working in web and mobile development for about three years. **Javascript** based stacks specialist and software engineering enthusiast.
 
-#### Some stuff to check out
+#### :cool: Some stuff to check out
 
-* [Linkedin](https://linkedin.com.br/in/matheussousaf)
-* [Twitter](https://twitter.com/matheussousaf4)
+My ![]()
 
+
+#### :rocket: 2020 Goals
+
+:sparkles: #100DaysOfProgramming 
+:sparkles: Fully learn Golang (loving the language)
+:sparkles: At least 3 wins in hackathons.
