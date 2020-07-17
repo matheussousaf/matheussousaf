@@ -17,8 +17,8 @@ I'm a pizza oriented **software developer** :rocket: **problem solver** and a **
 
 #### :cool: Some stuff to check out
 
-My personal [Portfolio](https://portfolio.matheussousaf.now.sh) (Under development)
-RobOtto - A bot to inspire kids to read.
+- My personal [Portfolio](https://portfolio.matheussousaf.now.sh) (Under development)
+- RobOtto - A bot to inspire kids to read.
 
 #### :rocket: 2020 Goals
 
