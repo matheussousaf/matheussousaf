@@ -22,6 +22,6 @@ I'm a pizza oriented **software developer** :rocket: **problem solver** and a **
 
 #### :rocket: 2020 Goals
 
-:sparkles: #100DaysOfProgramming
-:sparkles: Fully learn Golang (loving the language)
-:sparkles: At least 3 wins in hackathons.
+- :sparkles: #100DaysOfProgramming
+- :sparkles: Blog up and running!
+- :sparkles: A'ê 
