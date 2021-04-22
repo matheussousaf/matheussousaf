@@ -13,4 +13,4 @@
 
 ## About me
 
-I'm a pizza oriented **software developer** :rocket: **problem solver** and a **geek** :nerd_face: Working in web and mobile development for about three years. **Javascript** based stacks specialist and software engineering enthusiast.
+I'm a pizza oriented **software developer** :rocket: Working in web and mobile development for about three years. **Javascript** based stacks specialist and software engineering enthusiast.
