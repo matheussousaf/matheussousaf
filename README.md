@@ -14,14 +14,3 @@
 ## About me
 
 I'm a pizza oriented **software developer** :rocket: **problem solver** and a **geek** :nerd_face: Working in web and mobile development for about three years. **Javascript** based stacks specialist and software engineering enthusiast.
-
-#### :cool: Some stuff to check out
-
-- My personal [Portfolio](https://portfolio.matheussousaf.now.sh) (Under development)
-- RobOtto - A bot to inspire kids to read.
-
-#### :rocket: 2020 Goals
-
-- :sparkles: #100DaysOfProgramming
-- :sparkles: Blog up and running!
-- :sparkles: A'ê 
