@@ -15,6 +15,6 @@
 
 I'm a pizza oriented **software developer** :rocket: 
 
-Working with React + Node for about three years. 
+Working with React + Node for about five years. 
 
 **Javascript** based stacks specialist and software engineering enthusiast.
