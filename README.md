@@ -13,8 +13,8 @@
 
 ## About me
 
-I'm a pizza oriented **software developer** :rocket: 
+I'm a pizza oriented **software developer**, currently trying to make the world better using **Javascript** :rocket: 
 
-Working with React + Node for about five years. 
+My favorite stack to work ATM is React + Typescript + Next.js.
 
-**Javascript** based stacks specialist and software engineering enthusiast.
+Working in
