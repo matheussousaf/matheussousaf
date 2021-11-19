@@ -16,5 +16,3 @@
 I'm a pizza oriented **software developer**, currently trying to make the world better using **Javascript** :rocket: 
 
 My favorite stack to work ATM is React + Typescript + Next.js.
-
-Working in
