@@ -8,8 +8,8 @@
 
 🔥 Currently trying to make the world a little bit better using Javascript 🔥  
 
-[![checkout my linkedin](https://img.shields.io/badge/LinkedIn-matheussousaf-0077B5?style=flat)](https://linkedin.com/in/matheussousaf) 
-[![and my website](https://img.shields.io/badge/Website-matheussousaf.dev-313131?style=flat&labelColor=545454&color=313131)](https://matheussousaf.dev)
+[![checkout my linkedin](https://img.shields.io/badge/checkout_my_linkedin-313131?style=flat)](https://linkedin.com/in/matheussousaf) 
+[![and my website](https://img.shields.io/badge/and_my_website-313131?style=flat&labelColor=545454&color=313131)](https://matheussousaf.dev)
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
 
 
