@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/matheussousaf/matheussousaf/refs/heads/master/assets/skelly2.gif" width="183">
+<img align="left" src="https://raw.githubusercontent.com/matheussousaf/matheussousaf/refs/heads/master/assets/skelly2.gif" width="235">
 
 ### Hey there!  
 
