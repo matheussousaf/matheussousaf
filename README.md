@@ -1,12 +1,17 @@
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/mobius.gif">
+<img align="left" src="https://raw.githubusercontent.com/matheussousaf/matheussousaf/refs/heads/master/assets/mobius.gif">
 
 ### Hi, what's up?  
 
-👾 I'm **Matheus**.
+👋 I'm **Matheus**.
 
-🦀 I type in a computer for a living 🦀 
+🥷 I meticulously instruct clueless machines for a living 🥷  
 
-🐁 Currently making the world a better place using Javascript
+🔥 Currently trying to make the world a little bit better using Javascript 🔥  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheussousaf-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheussousaf)
+[![Website](https://img.shields.io/badge/Website-matheussousaf.dev-313131?style=flat&labelColor=545454&color=313131)](https://matheussousaf.dev)
+[![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
+
 
 <br>
 <br>
