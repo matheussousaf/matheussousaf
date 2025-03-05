@@ -16,8 +16,8 @@
 
 <div align="right">
 
-[![checkout my linkedin](https://img.shields.io/badge/check_out_my_linkedin-313131?style=flat)](https://linkedin.com/in/matheussousaf) 
-[![and my website](https://img.shields.io/badge/and_my_website-313131?style=flat)](https://matheussousaf.dev)
+[![checkout my linkedin](https://img.shields.io/badge/check_out_my_website-313131?style=flat)](https://matheussousaf.dev)
+[![and my website](https://img.shields.io/badge/and_my_linkedin-313131?style=flat)](https://linkedin.com/in/matheussousaf)
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
 
 </div>
