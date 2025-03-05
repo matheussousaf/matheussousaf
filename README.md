@@ -1,5 +1,3 @@
-<div align="center">
-
 <img align="left" src="https://raw.githubusercontent.com/matheussousaf/matheussousaf/refs/heads/master/assets/skelly2.gif" width="235">
 
 
@@ -15,12 +13,8 @@
 [![and my website](https://img.shields.io/badge/and_my_website-313131?style=flat)](https://matheussousaf.dev)
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
 
-</div>
-
-
 <br>
 <br>
-
 
 <details>
 <summary>tech stack</summary>
