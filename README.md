@@ -1,18 +1,36 @@
-<div style="text-align:center">
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/mobius.gif">
 
-# Matheus Figueirêdo :rocket:
+### Hi, what's up?  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheussousaf/)](https://www.linkedin.com/in/matheussousaf/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5583998949349&text=Olá!)](https://api.whatsapp.com/send?phone=5583998949349text=Olá!)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/matheussousaf4)](https://twitter.com/matheussousaf4)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheussousaf.js@gmail.com)](mailto:matheussousaf.js@gmail.com)
+👾 I'm **Matheus**.
 
-<img src="https://media.giphy.com/media/w2KHfIlI3V7bi/giphy.gif" />
+🦀 I type in a computer for a living 🦀 
 
-<br/>
+🐁 Currently making the world a better place using Javascript
 
-## About me
+<br>
+<br>
+<br>
+<br>
 
-I'm a pizza oriented **software developer**, currently trying to make the world better using **Javascript** :rocket: 
+#### 🛠️ What am I working on?
 
-My favorite stack to work ATM is React + Typescript + Next.js.
+| **Category**      | **Description**                                                                                                                                                                                           |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Maintaining**   | [Ratatui](https://github.com/ratatui/ratatui) – A Rust library for building TUIs.                                                                                                                         |
+|                   | [git-cliff](https://github.com/orhun/git-cliff) – A CLI tool for generating changelogs.                                                                                                                   |
+|                   | Rust packages for [Arch Linux](https://archlinux.org/packages/?maintainer=orhun) and [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Orhun+Parmaks%C4%B1z). |
+| **Creating**      | New terminal tools and libraries like [binsider](https://github.com/orhun/binsider) and [ratzilla](https://github.com/orhun/ratzilla).                                                                    |
+| **Writing**       | [Blog posts](https://blog.orhun.dev).                                                                                                                                                                     |
+| **Yapping**       | [X](https://x.com/orhundev) / [Mastodon](https://fosstodon.org/@orhun) / [Bluesky](https://bsky.app/profile/orhun.dev) / [LinkedIn](https://www.linkedin.com/in/orhunp).                                  |
+| **Organizing**    | [Terminal Collective](https://terminalcollective.org) – A meetup/community for terminal enthusiasts.                                                                                                      |
+| **Inspiring**     | _you_ via [Grindhouse](https://grindhouse.dev).                                                                                                                                                           |
+| **Livestreaming** | Everything on [YouTube](https://www.youtube.com/@orhundev).                                                                                                                                               |
+
+---
+
+<div align="right">
+
+**~** [_orhun.dev_](https://orhun.dev/)
+
+</div>
