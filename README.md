@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/matheussousaf/matheussousaf/refs/heads/master/assets/skelly3.gif" width="250">
+<img align="left" src="https://raw.githubusercontent.com/matheussousaf/matheussousaf/refs/heads/master/assets/skelly3.gif" width="150">
 
 ### Hey there!  
 
@@ -40,9 +40,6 @@ HTML5 | CSS3 | SASS | SCSS
 </div>
 
 </details>
-
----
-
 <details>
 <summary>contact</summary>
 <br>
