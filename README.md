@@ -1,6 +1,6 @@
 <img align="left" src="https://raw.githubusercontent.com/matheussousaf/matheussousaf/refs/heads/master/assets/skelly3.gif" width="235">
 
-<div align="center">
+<div align="left">
 
 ### Hey there!  
 
@@ -14,7 +14,7 @@
 
 <br>
 
-<div align="center">
+<div align="right">
 
 [![checkout my linkedin](https://img.shields.io/badge/check_out_my_linkedin-313131?style=flat)](https://linkedin.com/in/matheussousaf) 
 [![and my website](https://img.shields.io/badge/and_my_website-313131?style=flat)](https://matheussousaf.dev)
