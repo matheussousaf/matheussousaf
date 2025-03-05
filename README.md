@@ -25,6 +25,8 @@
 <br>
 <br>
 
+---
+
 <details>
 <summary>tech stack</summary>
 <br>
