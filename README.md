@@ -2,7 +2,7 @@
 
 <div align="left">
 
-### Hey there!  
+### Hey!  
 
 </div>
 
@@ -10,7 +10,7 @@
 
 🥷 I meticulously instruct clueless machines for a living 
 
-🔥 Currently trying to make the world a little bit better using programming
+🔥 I want to make the world a little bit better using programming
 
 <br>
 
