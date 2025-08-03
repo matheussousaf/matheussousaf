@@ -66,6 +66,4 @@ Discord • <a href="https://discord.com/users/1101820235566305290" target="_bla
 
 <div align="right">
 
-**~** _Undefined is when they forgot you. Null is when they meant to._
-
 </div>
