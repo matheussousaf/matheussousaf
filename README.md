@@ -8,9 +8,7 @@
 
 👋 I'm **Matheus**.
 
-🥷 I meticulously instruct clueless machines for a living 
-
-🔥 I want to make the world a little bit better using programming
+🥷 I meticulously instruct clueless machines for a living
 
 <br>
 
