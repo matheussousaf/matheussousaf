@@ -6,7 +6,7 @@
 
 </div>
 
-👋 I'm **Matheus**.
+👋 I'm **Matheus**
 
 🥷 I meticulously instruct clueless machines for a living
 
