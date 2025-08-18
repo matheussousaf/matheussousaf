@@ -40,7 +40,7 @@ MySQL | PostgreSQL | MongoDB | Redis
 <br>
 RabbitMQ | Kafka
 <br>
-HTML5 | CSS3 | SASS | SCSS
+Tailwind | CSS3 | SASS | SCSS
 
 </div>
 
