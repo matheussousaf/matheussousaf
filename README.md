@@ -52,8 +52,6 @@ Tailwind | CSS3 | SASS | SCSS
 
 <matheussousaf.js@gmail.com> 
 
-Discord • <a href="https://discord.com/users/1101820235566305290" target="_blank">@matheussousaf.js</a><br>
-
 [🌐 Website](https://matheussousaf.dev) • [🐦 Twitter/X](https://x.com/matheussousaf4)
 
 </div>
