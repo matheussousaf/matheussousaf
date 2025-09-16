@@ -32,7 +32,7 @@
 
 Javascript | Typescript | Python | Dart | Go
 <br>
-React | Next | Node | Nest | Express | Fastify | Koa
+React | Next | Nest | Express | Fastify | Apollo
 <br>
 AWS | GCP | Docker | Kubernetes
 <br>
