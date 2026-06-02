@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/matheussousaf/matheussousaf/refs/heads/master/assets/skelly3.gif" width="235">
+<img align="left" src="https://raw.githubusercontent.com/matheussousaf/matheussousaf/refs/heads/master/assets/skelly3.gif" width="234">
 
 <div align="left">
 
@@ -30,7 +30,7 @@
 <br>
 <div align="center">
 
-Javascript | Typescript | Python | Dart | Go
+Javascript | Typescript | Python | Dart | Go 
 <br>
 React | Next | Nest | Express | Fastify | Apollo
 <br>
