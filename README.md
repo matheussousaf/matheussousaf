@@ -2,7 +2,7 @@
 
 <div align="left">
 
-### Hey!  
+### Hey,
 
 </div>
 
